@@ -1,0 +1,16 @@
+# Course content (digital product - not public)
+course/
+
+# Screenshots and dev artifacts
+*.png
+!assets/*.png
+chatgpt-conversation.md
+
+# macOS
+.DS_Store
+
+# Playwright
+.playwright-mcp/
+
+# Claude
+.claude/
